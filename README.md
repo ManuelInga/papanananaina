@@ -5,6 +5,8 @@
 <h1>🇬🇧 Free performant minecraft server, hosted via GitHub Codespaces</h1>
 <h3><u>Thank you very much <a href="https://github.com/Luc4st1574">Lucast</a> for funding and supporting this project!</u></h3>
 <hr>
+<b>NOTE:</b> This can only be used in GitHub-Codespaces with one of the following services to handle the connection: NGROK, Tailscale, serveo!
+<hr>
 <h3>How you can use this?</h3>
 You can either follow <a href="https://www.youtube.com/watch?v=jf4Rl2Q1sJA" target="_blank">this</a> YouTube tutorial or the steps below:
 <ol>
@@ -31,6 +33,8 @@ You can either follow <a href="https://www.youtube.com/watch?v=jf4Rl2Q1sJA" targ
 
 <h1>🇩🇪 Kostenfreier Minecraft Server mit GitHub-Codespaces</h1>
 <h3><u>Vielen Dank an <a href="https://github.com/Luc4st1574">Lucast</a> für seine Unterstützung bei diesem Projekt!</u></h3>
+<hr>
+<b>ACHTUNG:</b> Zu diesem Server kann man sich in Codespaces nur durch die Nutzung eines der folgenden Services verbinden: NGROK, Tailscale, serveo!
 <hr>
 <h3>Wie nutzt man dieses Repository?</h3>
 <ol>
