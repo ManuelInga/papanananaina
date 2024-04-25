@@ -10,7 +10,7 @@ You can either follow <a href="https://www.youtube.com/watch?v=jf4Rl2Q1sJA" targ
 <ol>
   <li><strong>Fork</strong> this repository</li>
   <li><a href="https://github.com/codespaces/new">Create a new codespace</a> and select the fork of this repository as base.</li>
-  <li>Now execute the python file included in this repository and follow the instructions!</li>
+  <li>Now execute the server.py file included in this repository and follow the instructions!</li>
 </ol>
 
 <br>
@@ -36,6 +36,6 @@ You can either follow <a href="https://www.youtube.com/watch?v=jf4Rl2Q1sJA" targ
 <ol>
   <li>Erstelle einen <strong>Fork</strong> dieses Repositories</li>
   <li><a href="https://github.com/codespaces/new">Erstelle ein neues Codespace</a> und nutze deinen Fork als Basis.</li>
-  <li>Führe die im Repository enthaltene Python Datei aus und folge den Anweisungen des Programmes.</li>
+  <li>Führe die im Repository enthaltene server.py Datei aus und folge den Anweisungen des Programmes (Nur auf Englisch).</li>
 </ol>
 
