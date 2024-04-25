@@ -1,7 +1,4 @@
-
-
-
-
+# Copyright see https://github.com/elyxdev/elyx-server
 
 # Custom version
 # mohist / catserver   Install forge   first
@@ -11,27 +8,14 @@
 # Ngrok region
 # Code           Place
 #-----------     ---------------------------
-# ap	          Asia/Pacific (Singapore)
-# au		  Australia (Sydney)
-# eu		  Europe (Frankfurt)
-# in		  India (Mumbai)
-# jp		  Japan (Tokyo)
-# sa		  South America (São Paulo)
-# us		  United States (Ohio)
-# us-cal-1	  United States (California)
-
-
-
-
-
-
-
-
-
-
-
-
-
+# ap	         Asia/Pacific (Singapore)
+# au		  	 Australia (Sydney)
+# eu		     Europe (Frankfurt; Germany)
+# in		     India (Mumbai)
+# jp		     Japan (Tokyo)
+# sa		     South America (São Paulo; Brazil)
+# us		     United States (Ohio)
+# us-cal-1	     United States (California)
 
 
 import requests,os
