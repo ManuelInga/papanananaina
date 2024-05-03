@@ -7,7 +7,6 @@
 # mohist / catserver   Instala forge   primero
 # purpur               Instala fabric  primero
 # snapshot             Instala vanilla primero
-
 # Regiones ngrok
 # Código      Lugar
 #----------- ---------------------------
