@@ -1,8 +1,4 @@
 
-
-
-
-
 # Versiones custom
 # mohist / catserver   Instala forge   primero
 # purpur               Instala fabric  primero
@@ -19,20 +15,6 @@
 # sa		  South America (São Paulo)
 # us		  United States (Ohio)
 # us-cal-1	  United States (California)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 B=print
 import requests as C,os
